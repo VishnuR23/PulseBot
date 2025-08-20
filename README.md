@@ -5,8 +5,6 @@
 predict (1) short‑term **trend** (up vs. down) and (2) sudden **pulses** (spikes) using OHLCV time‑series.
 It includes data prep, training, inference, and a basic walk‑forward **backtester**.
 
-> ⚠️ Educational use only. Not financial advice. Markets are risky.
-
 ---
 
 ## ✨ What it does
@@ -66,7 +64,3 @@ outputs/
 ```
 
 ---
-
-## 📎 Disclaimer
-This code is for learning. It is **not** investment advice and comes with **no warranty**.
-Do not use it to trade real money without independent research and professional guidance.
