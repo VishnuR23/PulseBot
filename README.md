@@ -1,8 +1,7 @@
 
 # PulseTrader‑TF — TensorFlow Trend & Pulse Predictor (Simple Trading Bot)
 
-**PulseTrader‑TF** is a small, educational project that trains a **TensorFlow** model to
-predict (1) short‑term **trend** (up vs. down) and (2) sudden **pulses** (spikes) using OHLCV time‑series.
+**PulseTrader‑TF** trains a **TensorFlow** model to predict (1) short‑term **trend** (up vs. down) and (2) sudden **pulses** (spikes) using OHLCV time‑series.
 It includes data prep, training, inference, and a basic walk‑forward **backtester**.
 
 ---
